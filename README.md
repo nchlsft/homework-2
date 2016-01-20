@@ -4,3 +4,5 @@ An email has three parts: the envelope, the header and the body. The envelope is
 
 
 DNS stands for domain name server and is the way we figure out how to get to webpages. It is a server dedicated to being a really big lookup table: when we type a webpage address on the browser, it will “ask” the DNS what is the IP address of the server where this page “lives”. The DNS will give this IP number and then our browser will search for this information, taking us to the desired website. 
+
+something
